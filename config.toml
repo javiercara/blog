@@ -1,4 +1,4 @@
-baseurl = "https://javiercara.github.io/blog/"
+baseurl = "/"
 relativeurls = true
 languageCode = "en-us"
 title = "The more I learn, the more I can learn"
